@@ -34,5 +34,7 @@ http://stackoverflow.com/questions/292357/what-are-the-differences-between-git-p
 - Config user's info (name, email) locally
 - Resolve conflicts
 
+# References
 
+- https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
 

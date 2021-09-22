@@ -1,6 +1,6 @@
 # Vấn Đề Hiện Tại
 
-- Chưa sử dụng SSH
+- Chưa sử dụng SSH (https://gitlab.ovp.vn/help/ssh/README.md)
 - Chưa thực hành và sử dụng Git thành thạo (quản lý branch, tag, merge-branch)
 - Chưa sử dụng công cụ hỗ trợ (merge code, diff code)
 

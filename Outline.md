@@ -28,3 +28,8 @@ http://stackoverflow.com/questions/292357/what-are-the-differences-between-git-p
 
 # Demo
 
+- Config user's info (name, email) locally
+- Resolve conflicts
+
+
+

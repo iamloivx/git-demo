@@ -3,6 +3,7 @@
 - Chưa sử dụng SSH (https://gitlab.ovp.vn/help/ssh/README.md)
 - Chưa thực hành và sử dụng Git thành thạo (quản lý branch, tag, merge-branch)
 - Chưa sử dụng công cụ hỗ trợ (merge code, diff code)
+- Rủi ro khi anh HA chịu trách nhiệm merge code nhưng không phải là người code chính
 
 # Công Cụ Hỗ Trợ
 

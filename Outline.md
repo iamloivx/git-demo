@@ -27,6 +27,8 @@ http://stackoverflow.com/questions/292357/what-are-the-differences-between-git-p
 
 - Hạn chế sử dụng `commit -a`. Lệnh trên có thể tiện khi muốn commmit tất cả các thay đổi như sửa file, xóa file. Tuy nhiên, sử dụng nó cũng dễ gây ra những vấn đề phát sinh (mình xóa nhầm file, commit những file không mong muốn). Thay vì thế, chỉ nên chọn lựa và commit những file thực sự mình muốn commit.
 
+- Merge master luôn được thực hiện ở branch nhánh trước, sau đó push code mới trên branch nhánh này và từ master mới merge lại branch này - Hạn chế rủi ro mất code, code thiếu, lỗi logic cho master
+
 # Demo
 
 - Config user's info (name, email) locally
